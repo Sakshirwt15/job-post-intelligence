@@ -1,0 +1,27 @@
+Extract structured job details from the messy job post below (it may be English, Hinglish, with emojis and forwarded-message noise).
+
+Return ONE JSON object with exactly these keys:
+{
+  "company": string,                       // hiring company name
+  "role": string,                          // job title
+  "employment_type": "internship" | "full-time" | "contract" | "unknown",
+  "batch": [integer],                      // eligible graduation years, e.g. [2025, 2026]; [] if not mentioned
+  "stipend_min": integer | null,           // INR per MONTH
+  "stipend_max": integer | null,           // INR per MONTH (same as min if a single value)
+  "location": string | null,               // city only; null if fully remote or not mentioned
+  "is_remote": boolean,
+  "skills": [string],                      // technical skills/tools only
+  "apply_link": string | null,             // full http(s) URL
+  "apply_email": string | null
+}
+
+Rules:
+- Money must be a plain integer in INR per month. "25k" -> 25000, "₹20,000-30,000" -> min 20000, max 30000. "6 LPA" -> divide by 12 (50000). If no pay is mentioned use null. Never guess.
+- batch: list every graduation year mentioned ("2025/2026 passouts" -> [2025, 2026]).
+- location: a single city name in English. If the post says Remote/WFH only, set location null and is_remote true.
+- skills: short canonical names (e.g. "Python", "SQL", "React"), no sentences.
+- Copy apply_link exactly as written in the post. Do not invent links, emails or companies.
+- If a value is missing use null (or [] for lists). Output JSON only.
+
+POST:
+{{POST}}

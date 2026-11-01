@@ -1,0 +1,20 @@
+# Core
+pydantic>=2.6
+requests>=2.31
+python-dotenv>=1.0
+numpy>=1.26
+pypdf>=4.0
+
+# Embeddings + vector DB
+sentence-transformers>=2.7
+chromadb>=0.5
+
+# Backend + UI
+fastapi>=0.110
+uvicorn[standard]>=0.29
+python-multipart>=0.0.9
+streamlit>=1.33
+pandas>=2.0
+
+# Tests
+pytest>=8.0

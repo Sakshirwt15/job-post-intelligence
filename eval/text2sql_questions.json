@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "question": "How many jobs are there in total?",
+    "gold_sql": "SELECT COUNT(*) FROM jobs",
+    "category": "aggregate"
+  },
+  {
+    "id": 2,
+    "question": "How many jobs are in Pune?",
+    "gold_sql": "SELECT COUNT(*) FROM jobs WHERE location = 'Pune'",
+    "category": "filter"
+  },
+  {
+    "id": 3,
+    "question": "List the distinct companies hiring in Bangalore.",
+    "gold_sql": "SELECT DISTINCT company FROM jobs WHERE location = 'Bangalore'",
+    "category": "filter"
+  },
+  {
+    "id": 4,
+    "question": "How many internships are there?",
+    "gold_sql": "SELECT COUNT(*) FROM jobs WHERE employment_type = 'internship'",
+    "category": "filter"
+  },
+  {
+    "id": 5,
+    "question": "How many full-time jobs are there?",
+    "gold_sql": "SELECT COUNT(*) FROM jobs WHERE employment_type = 'full-time'",
+    "category": "filter"
+  },
+  {
+    "id": 6,
+    "question": "Show company and role of all remote jobs.",
+    "gold_sql": "SELECT company, role FROM jobs WHERE is_remote = 1",
+    "category": "filter"
+  },
+  {
+    "id": 7,
+    "question": "What is the highest minimum stipend?",
+    "gold_sql": "SELECT MAX(stipend_min) FROM jobs",
+    "category": "aggregate"
+  },
+  {
+    "id": 8,
+    "question": "What is the average minimum stipend of internships?",
+    "gold_sql": "SELECT AVG(stipend_min) FROM jobs WHERE employment_type = 'internship'",
+    "category": "aggregate"
+  },
+  {
+    "id": 9,
+    "question": "How many jobs mention Python in skills?",
+    "gold_sql": "SELECT COUNT(*) FROM jobs WHERE skills LIKE '%Python%'",
+    "category": "text-match"
+  },
+  {
+    "id": 10,
+    "question": "Show company and role of jobs requiring Docker.",
+    "gold_sql": "SELECT company, role FROM jobs WHERE skills LIKE '%Docker%'",
+    "category": "text-match"
+  },
+  {
+    "id": 11,
+    "question": "List company and role of jobs with a minimum stipend of at least 30000.",
+    "gold_sql": "SELECT company, role FROM jobs WHERE stipend_min >= 30000",
+    "category": "numeric"
+  },
+  {
+    "id": 12,
+    "question": "For jobs that have a location, return each location and the number of jobs.",
+    "gold_sql": "SELECT location, COUNT(*) FROM jobs WHERE location IS NOT NULL GROUP BY location",
+    "category": "group-by"
+  },
+  {
+    "id": 13,
+    "question": "How many jobs target the 2026 batch?",
+    "gold_sql": "SELECT COUNT(*) FROM jobs WHERE batch_years LIKE '%2026%'",
+    "category": "text-match"
+  },
+  {
+    "id": 14,
+    "question": "List company and role of jobs open to both the 2025 and 2026 batches.",
+    "gold_sql": "SELECT company, role FROM jobs WHERE batch_years LIKE '%2025%' AND batch_years LIKE '%2026%'",
+    "category": "text-match"
+  },
+  {
+    "id": 15,
+    "question": "How many jobs have an apply link?",
+    "gold_sql": "SELECT COUNT(*) FROM jobs WHERE apply_link IS NOT NULL",
+    "category": "null-check"
+  },
+  {
+    "id": 16,
+    "question": "How many jobs have no stipend information?",
+    "gold_sql": "SELECT COUNT(*) FROM jobs WHERE stipend_min IS NULL AND stipend_max IS NULL",
+    "category": "null-check"
+  },
+  {
+    "id": 17,
+    "question": "Return each employment type and the number of jobs of that type.",
+    "gold_sql": "SELECT employment_type, COUNT(*) FROM jobs GROUP BY employment_type",
+    "category": "group-by"
+  },
+  {
+    "id": 18,
+    "question": "What is the lowest minimum stipend among jobs in Mumbai?",
+    "gold_sql": "SELECT MIN(stipend_min) FROM jobs WHERE location = 'Mumbai'",
+    "category": "aggregate"
+  },
+  {
+    "id": 19,
+    "question": "Show company and role of internships in Hyderabad.",
+    "gold_sql": "SELECT company, role FROM jobs WHERE employment_type = 'internship' AND location = 'Hyderabad'",
+    "category": "filter"
+  },
+  {
+    "id": 20,
+    "question": "How many distinct companies are there?",
+    "gold_sql": "SELECT COUNT(DISTINCT company) FROM jobs",
+    "category": "aggregate"
+  },
+  {
+    "id": 21,
+    "question": "Which companies have more than one job posting? Return the company.",
+    "gold_sql": "SELECT company FROM jobs GROUP BY company HAVING COUNT(*) > 1",
+    "category": "group-by"
+  },
+  {
+    "id": 22,
+    "question": "List company, role and stipend_max for jobs with stipend_max of at least 40000.",
+    "gold_sql": "SELECT company, role, stipend_max FROM jobs WHERE stipend_max >= 40000",
+    "category": "numeric"
+  },
+  {
+    "id": 23,
+    "question": "How many jobs are in Pune or Mumbai?",
+    "gold_sql": "SELECT COUNT(*) FROM jobs WHERE location IN ('Pune', 'Mumbai')",
+    "category": "filter"
+  },
+  {
+    "id": 24,
+    "question": "How many remote internships are there?",
+    "gold_sql": "SELECT COUNT(*) FROM jobs WHERE is_remote = 1 AND employment_type = 'internship'",
+    "category": "filter"
+  },
+  {
+    "id": 25,
+    "question": "Show company and role of jobs that mention both Python and SQL.",
+    "gold_sql": "SELECT company, role FROM jobs WHERE skills LIKE '%Python%' AND skills LIKE '%SQL%'",
+    "category": "text-match"
+  },
+  {
+    "id": 26,
+    "question": "What is the average stipend_max of full-time jobs?",
+    "gold_sql": "SELECT AVG(stipend_max) FROM jobs WHERE employment_type = 'full-time'",
+    "category": "aggregate"
+  },
+  {
+    "id": 27,
+    "question": "How many jobs have a minimum stipend between 15000 and 25000 inclusive?",
+    "gold_sql": "SELECT COUNT(*) FROM jobs WHERE stipend_min BETWEEN 15000 AND 25000",
+    "category": "numeric"
+  },
+  {
+    "id": 28,
+    "question": "List company and apply_link of jobs in Delhi.",
+    "gold_sql": "SELECT company, apply_link FROM jobs WHERE location = 'Delhi'",
+    "category": "filter"
+  },
+  {
+    "id": 29,
+    "question": "How many jobs require React?",
+    "gold_sql": "SELECT COUNT(*) FROM jobs WHERE skills LIKE '%React%'",
+    "category": "text-match"
+  },
+  {
+    "id": 30,
+    "question": "How many jobs have stipend_max above 50000?",
+    "gold_sql": "SELECT COUNT(*) FROM jobs WHERE stipend_max > 50000",
+    "category": "numeric"
+  },
+  {
+    "id": 31,
+    "question": "Return the distinct roles that contain the word Intern.",
+    "gold_sql": "SELECT DISTINCT role FROM jobs WHERE role LIKE '%Intern%'",
+    "category": "text-match"
+  },
+  {
+    "id": 32,
+    "question": "How many jobs have an apply email?",
+    "gold_sql": "SELECT COUNT(*) FROM jobs WHERE apply_email IS NOT NULL",
+    "category": "null-check"
+  },
+  {
+    "id": 33,
+    "question": "Show company and role of jobs whose role contains 'AI'.",
+    "gold_sql": "SELECT company, role FROM jobs WHERE role LIKE '%AI%'",
+    "category": "text-match"
+  },
+  {
+    "id": 34,
+    "question": "How many jobs were posted by NovaStack Technologies?",
+    "gold_sql": "SELECT COUNT(*) FROM jobs WHERE company = 'NovaStack Technologies'",
+    "category": "filter"
+  },
+  {
+    "id": 35,
+    "question": "For jobs in Bangalore, return each employment type and the number of jobs.",
+    "gold_sql": "SELECT employment_type, COUNT(*) FROM jobs WHERE location = 'Bangalore' GROUP BY employment_type",
+    "category": "group-by"
+  },
+  {
+    "id": 36,
+    "question": "How many jobs mention AWS in skills and are located in Pune?",
+    "gold_sql": "SELECT COUNT(*) FROM jobs WHERE skills LIKE '%AWS%' AND location = 'Pune'",
+    "category": "filter"
+  },
+  {
+    "id": 37,
+    "question": "List the distinct locations of jobs that require Kubernetes.",
+    "gold_sql": "SELECT DISTINCT location FROM jobs WHERE skills LIKE '%Kubernetes%'",
+    "category": "text-match"
+  },
+  {
+    "id": 38,
+    "question": "How many internships have a minimum stipend of at least 20000?",
+    "gold_sql": "SELECT COUNT(*) FROM jobs WHERE employment_type = 'internship' AND stipend_min >= 20000",
+    "category": "numeric"
+  },
+  {
+    "id": 39,
+    "question": "How many jobs have stipend_min equal to stipend_max?",
+    "gold_sql": "SELECT COUNT(*) FROM jobs WHERE stipend_min = stipend_max",
+    "category": "numeric"
+  },
+  {
+    "id": 40,
+    "question": "What is the maximum number of times any single job was posted?",
+    "gold_sql": "SELECT MAX(times_posted) FROM jobs",
+    "category": "aggregate"
+  }
+]

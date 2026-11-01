@@ -1,0 +1,1230 @@
+[
+  {
+    "id": 1,
+    "group_id": 1,
+    "text": "🚀 HIRING ALERT 🚀\nNovaStack Technologies is looking for AI/ML Intern\n📍 Remote / WFH\n💰 ₹25,000/month\n🎓 2025/2026 batches\n🛠 Skills: Python, PyTorch, NLP\n👉 Apply: https://careers.novastacktechnologies.com/apply/1000\n\nShare with friends!",
+    "labels": {
+      "company": "NovaStack Technologies",
+      "role": "AI/ML Intern",
+      "employment_type": "internship",
+      "batch": [
+        2025,
+        2026
+      ],
+      "stipend_min": 25000,
+      "stipend_max": 25000,
+      "location": null,
+      "is_remote": true,
+      "skills": [
+        "Python",
+        "PyTorch",
+        "NLP"
+      ],
+      "apply_link": "https://careers.novastacktechnologies.com/apply/1000",
+      "apply_email": null
+    }
+  },
+  {
+    "id": 2,
+    "group_id": 2,
+    "text": "Hey guys! Bluepeak Labs me opening hai - DevOps Engineer. Location: Pune (onsite). CTC: 3 LPA. Batch 2025 eligible hain. Aana chahiye: Docker | Kubernetes | AWS. Apply karo jaldi: https://careers.bluepeaklabs.com/apply/1001 🔥",
+    "labels": {
+      "company": "Bluepeak Labs",
+      "role": "DevOps Engineer",
+      "employment_type": "full-time",
+      "batch": [
+        2025
+      ],
+      "stipend_min": 25000,
+      "stipend_max": 25000,
+      "location": "Pune",
+      "is_remote": false,
+      "skills": [
+        "Docker",
+        "Kubernetes",
+        "AWS"
+      ],
+      "apply_link": "https://careers.bluepeaklabs.com/apply/1001",
+      "apply_email": null
+    }
+  },
+  {
+    "id": 3,
+    "group_id": 3,
+    "text": "*QuantaWorks*\nRole: Cloud Engineer\nLocation: Gurgaon\nCompensation: 12 LPA\nEligibility: 2026 passouts only\nTech: AWS, Terraform, Linux\nHow to apply: https://careers.quantaworks.com/apply/1002",
+    "labels": {
+      "company": "QuantaWorks",
+      "role": "Cloud Engineer",
+      "employment_type": "full-time",
+      "batch": [
+        2026
+      ],
+      "stipend_min": 100000,
+      "stipend_max": 100000,
+      "location": "Gurgaon",
+      "is_remote": false,
+      "skills": [
+        "AWS",
+        "Terraform",
+        "Linux"
+      ],
+      "apply_link": "https://careers.quantaworks.com/apply/1002",
+      "apply_email": null
+    }
+  },
+  {
+    "id": 4,
+    "group_id": 4,
+    "text": "Forwarded as received\n\nBhai referral chahiye to ping karo. Zenith Analytics hiring Full Stack Developer (Chennai (onsite)), 6 LPA. 2025 & 2026 pass-outs welcome. Must know Node.js, React and MongoDB. https://zenithanalytics.in/jobs/3",
+    "labels": {
+      "company": "Zenith Analytics",
+      "role": "Full Stack Developer",
+      "employment_type": "full-time",
+      "batch": [
+        2025,
+        2026
+      ],
+      "stipend_min": 50000,
+      "stipend_max": 50000,
+      "location": "Chennai",
+      "is_remote": false,
+      "skills": [
+        "Node.js",
+        "React",
+        "MongoDB"
+      ],
+      "apply_link": "https://zenithanalytics.in/jobs/3",
+      "apply_email": null
+    }
+  },
+  {
+    "id": 5,
+    "group_id": 5,
+    "text": "📢 Opportunity @ PixelForge Studios\n\nWe're hiring a Software Engineer!\n• Where: Remote / WFH\n• Pay: CTC: 9 LPA\n• Who: 2025 batch\n• Stack: Java, Spring Boot, SQL\n\nInterested? https://pixelforgestudios.in/jobs/4\n#hiring #freshers #jobs",
+    "labels": {
+      "company": "PixelForge Studios",
+      "role": "Software Engineer",
+      "employment_type": "full-time",
+      "batch": [
+        2025
+      ],
+      "stipend_min": 75000,
+      "stipend_max": 75000,
+      "location": null,
+      "is_remote": true,
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "SQL"
+      ],
+      "apply_link": "https://pixelforgestudios.in/jobs/4",
+      "apply_email": null
+    }
+  },
+  {
+    "id": 6,
+    "group_id": 6,
+    "text": "Data Analyst Intern - CloudNimbus (Bangalore (onsite)) | 15k per month | 2024 & 2025 passouts | SQL/Excel/Power BI | https://cloudnimbus.in/jobs/5",
+    "labels": {
+      "company": "CloudNimbus",
+      "role": "Data Analyst Intern",
+      "employment_type": "internship",
+      "batch": [
+        2024,
+        2025
+      ],
+      "stipend_min": 15000,
+      "stipend_max": 15000,
+      "location": "Bangalore",
+      "is_remote": false,
+      "skills": [
+        "SQL",
+        "Excel",
+        "Power BI"
+      ],
+      "apply_link": "https://cloudnimbus.in/jobs/5",
+      "apply_email": null
+    }
+  },
+  {
+    "id": 7,
+    "group_id": 7,
+    "text": "🚀 HIRING ALERT 🚀\nDataBridge AI is looking for Android Developer Intern\n📍 Pune\n💰 Stipend: 30000 pm\n🎓 2026 passouts only\n🛠 Skills: Kotlin, Android, Firebase\n👉 Apply: https://forms.gle/Xy006Qz\n\nShare with friends!",
+    "labels": {
+      "company": "DataBridge AI",
+      "role": "Android Developer Intern",
+      "employment_type": "internship",
+      "batch": [
+        2026
+      ],
+      "stipend_min": 30000,
+      "stipend_max": 30000,
+      "location": "Pune",
+      "is_remote": false,
+      "skills": [
+        "Kotlin",
+        "Android",
+        "Firebase"
+      ],
+      "apply_link": "https://forms.gle/Xy006Qz",
+      "apply_email": null
+    }
+  },
+  {
+    "id": 8,
+    "group_id": 8,
+    "text": "Hey guys! FinEdge Payments me opening hai - Cloud Engineer. Location: Noida (onsite). CTC: 6 LPA. 2025 & 2026 pass-outs welcome eligible hain. Aana chahiye: AWS | Terraform | Linux. Apply karo jaldi: https://forms.gle/Xy007Qz 🔥",
+    "labels": {
+      "company": "FinEdge Payments",
+      "role": "Cloud Engineer",
+      "employment_type": "full-time",
+      "batch": [
+        2025,
+        2026
+      ],
+      "stipend_min": 50000,
+      "stipend_max": 50000,
+      "location": "Noida",
+      "is_remote": false,
+      "skills": [
+        "AWS",
+        "Terraform",
+        "Linux"
+      ],
+      "apply_link": "https://forms.gle/Xy007Qz",
+      "apply_email": null
+    }
+  },
+  {
+    "id": 9,
+    "group_id": 9,
+    "text": "*GreenLeaf Robotics*\nRole: Data Scientist\nLocation: Bangalore\nCompensation: 6 LPA\nEligibility: 2026/2027 batches\nTech: Python, Machine Learning, SQL\nHow to apply: https://forms.gle/Xy008Qz",
+    "labels": {
+      "company": "GreenLeaf Robotics",
+      "role": "Data Scientist",
+      "employment_type": "full-time",
+      "batch": [
+        2026,
+        2027
+      ],
+      "stipend_min": 50000,
+      "stipend_max": 50000,
+      "location": "Bangalore",
+      "is_remote": false,
+      "skills": [
+        "Python",
+        "Machine Learning",
+        "SQL"
+      ],
+      "apply_link": "https://forms.gle/Xy008Qz",
+      "apply_email": null
+    }
+  },
+  {
+    "id": 10,
+    "group_id": 10,
+    "text": "Forwarded as received\n\nBhai referral chahiye to ping karo. Orbit Commerce hiring QA Automation Intern (Delhi (onsite)), 25k per month. 2026 & 2027 passouts. Must know Selenium, Python and Pytest. https://careers.orbitcommerce.com/apply/1009",
+    "labels": {
+      "company": "Orbit Commerce",
+      "role": "QA Automation Intern",
+      "employment_type": "internship",
+      "batch": [
+        2026,
+        2027
+      ],
+      "stipend_min": 25000,
+      "stipend_max": 25000,
+      "location": "Delhi",
+      "is_remote": false,
+      "skills": [
+        "Selenium",
+        "Python",
+        "Pytest"
+      ],
+      "apply_link": "https://careers.orbitcommerce.com/apply/1009",
+      "apply_email": null
+    }
+  },
+  {
+    "id": 11,
+    "group_id": 11,
+    "text": "📢 Opportunity @ Lumina Health\n\nWe're hiring a Frontend Developer Intern!\n• Where: Chennai\n• Pay: Stipend: 30000 pm\n• Who: Batch: 2024/2025\n• Stack: React, JavaScript, CSS\n\nInterested? mail resume to careers@luminahealth.com\n#hiring #freshers #jobs",
+    "labels": {
+      "company": "Lumina Health",
+      "role": "Frontend Developer Intern",
+      "employment_type": "internship",
+      "batch": [
+        2024,
+        2025
+      ],
+      "stipend_min": 30000,
+      "stipend_max": 30000,
+      "location": "Chennai",
+      "is_remote": false,
+      "skills": [
+        "React",
+        "JavaScript",
+        "CSS"
+      ],
+      "apply_link": null,
+      "apply_email": "careers@luminahealth.com"
+    }
+  },
+  {
+    "id": 12,
+    "group_id": 12,
+    "text": "Generative AI Intern - TerraByte Systems (Noida (onsite)) | Stipend: 25k to 40k | 2024 & 2025 pass-outs welcome | LangChain/Python/LLMs | https://forms.gle/Xy011Qz",
+    "labels": {
+      "company": "TerraByte Systems",
+      "role": "Generative AI Intern",
+      "employment_type": "internship",
+      "batch": [
+        2024,
+        2025
+      ],
+      "stipend_min": 25000,
+      "stipend_max": 40000,
+      "location": "Noida",
+      "is_remote": false,
+      "skills": [
+        "LangChain",
+        "Python",
+        "LLMs"
+      ],
+      "apply_link": "https://forms.gle/Xy011Qz",
+      "apply_email": null
+    }
+  },
+  {
+    "id": 13,
+    "group_id": 13,
+    "text": "🚀 HIRING ALERT 🚀\nVantage Retail Tech is looking for Data Analyst Intern\n📍 Delhi\n💰 ₹20,000 - ₹30,000/month\n🎓 2026/2027 batches\n🛠 Skills: SQL, Excel, Power BI\n👉 Apply: https://bit.ly/job012\n\nShare with friends!",
+    "labels": {
+      "company": "Vantage Retail Tech",
+      "role": "Data Analyst Intern",
+      "employment_type": "internship",
+      "batch": [
+        2026,
+        2027
+      ],
+      "stipend_min": 20000,
+      "stipend_max": 30000,
+      "location": "Delhi",
+      "is_remote": false,
+      "skills": [
+        "SQL",
+        "Excel",
+        "Power BI"
+      ],
+      "apply_link": "https://bit.ly/job012",
+      "apply_email": null
+    }
+  },
+  {
+    "id": 14,
+    "group_id": 14,
+    "text": "Hey guys! Kiteflow me opening hai - Android Developer Intern. Location: Mumbai (onsite). 25k-40k/month. 2026 & 2027 passouts eligible hain. Aana chahiye: Kotlin | Android | Firebase. Apply karo jaldi: mail resume to careers@kiteflow.com 🔥",
+    "labels": {
+      "company": "Kiteflow",
+      "role": "Android Developer Intern",
+      "employment_type": "internship",
+      "batch": [
+        2026,
+        2027
+      ],
+      "stipend_min": 25000,
+      "stipend_max": 40000,
+      "location": "Mumbai",
+      "is_remote": false,
+      "skills": [
+        "Kotlin",
+        "Android",
+        "Firebase"
+      ],
+      "apply_link": null,
+      "apply_email": "careers@kiteflow.com"
+    }
+  },
+  {
+    "id": 15,
+    "group_id": 15,
+    "text": "*Mintra Fintech*\nRole: QA Automation Intern\nLocation: Mumbai\nCompensation: 20-30k pm\nEligibility: 2026 passouts only\nTech: Selenium, Python, Pytest\nHow to apply: https://bit.ly/job014",
+    "labels": {
+      "company": "Mintra Fintech",
+      "role": "QA Automation Intern",
+      "employment_type": "internship",
+      "batch": [
+        2026
+      ],
+      "stipend_min": 20000,
+      "stipend_max": 30000,
+      "location": "Mumbai",
+      "is_remote": false,
+      "skills": [
+        "Selenium",
+        "Python",
+        "Pytest"
+      ],
+      "apply_link": "https://bit.ly/job014",
+      "apply_email": null
+    }
+  },
+  {
+    "id": 16,
+    "group_id": 16,
+    "text": "Forwarded as received\n\nBhai referral chahiye to ping karo. DataBridge AI hiring Data Scientist (Pune (onsite)), CTC: 9 LPA. 2025 graduates. Must know Python, Machine Learning and SQL. https://databridgeai.in/jobs/15",
+    "labels": {
+      "company": "DataBridge AI",
+      "role": "Data Scientist",
+      "employment_type": "full-time",
+      "batch": [
+        2025
+      ],
+      "stipend_min": 75000,
+      "stipend_max": 75000,
+      "location": "Pune",
+      "is_remote": false,
+      "skills": [
+        "Python",
+        "Machine Learning",
+        "SQL"
+      ],
+      "apply_link": "https://databridgeai.in/jobs/15",
+      "apply_email": null
+    }
+  },
+  {
+    "id": 17,
+    "group_id": 17,
+    "text": "📢 Opportunity @ Bluepeak Labs\n\nWe're hiring a QA Automation Intern!\n• Where: Noida\n• Pay: ₹30,000/month\n• Who: 2025 batch\n• Stack: Selenium, Python, Pytest\n\nInterested? https://forms.gle/Xy016Qz\n#hiring #freshers #jobs",
+    "labels": {
+      "company": "Bluepeak Labs",
+      "role": "QA Automation Intern",
+      "employment_type": "internship",
+      "batch": [
+        2025
+      ],
+      "stipend_min": 30000,
+      "stipend_max": 30000,
+      "location": "Noida",
+      "is_remote": false,
+      "skills": [
+        "Selenium",
+        "Python",
+        "Pytest"
+      ],
+      "apply_link": "https://forms.gle/Xy016Qz",
+      "apply_email": null
+    }
+  },
+  {
+    "id": 18,
+    "group_id": 18,
+    "text": "Data Analyst Intern - GreenLeaf Robotics (Delhi (onsite)) | 25k per month | 2026 & 2027 passouts | SQL/Excel/Power BI | https://forms.gle/Xy017Qz",
+    "labels": {
+      "company": "GreenLeaf Robotics",
+      "role": "Data Analyst Intern",
+      "employment_type": "internship",
+      "batch": [
+        2026,
+        2027
+      ],
+      "stipend_min": 25000,
+      "stipend_max": 25000,
+      "location": "Delhi",
+      "is_remote": false,
+      "skills": [
+        "SQL",
+        "Excel",
+        "Power BI"
+      ],
+      "apply_link": "https://forms.gle/Xy017Qz",
+      "apply_email": null
+    }
+  },
+  {
+    "id": 19,
+    "group_id": 19,
+    "text": "🚀 HIRING ALERT 🚀\nGreenLeaf Robotics is looking for Data Scientist\n📍 Noida\n💰 3 LPA\n🎓 2025 passouts only\n🛠 Skills: Python, Machine Learning, SQL\n👉 Apply: https://greenleafrobotics.in/jobs/18\n\nShare with friends!",
+    "labels": {
+      "company": "GreenLeaf Robotics",
+      "role": "Data Scientist",
+      "employment_type": "full-time",
+      "batch": [
+        2025
+      ],
+      "stipend_min": 25000,
+      "stipend_max": 25000,
+      "location": "Noida",
+      "is_remote": false,
+      "skills": [
+        "Python",
+        "Machine Learning",
+        "SQL"
+      ],
+      "apply_link": "https://greenleafrobotics.in/jobs/18",
+      "apply_email": null
+    }
+  },
+  {
+    "id": 20,
+    "group_id": 20,
+    "text": "Hey guys! Zenith Analytics me opening hai - Cloud Engineer. Location: Bangalore (onsite). Salary 12 lpa. 2025 graduates eligible hain. Aana chahiye: AWS | Terraform | Linux. Apply karo jaldi: https://forms.gle/Xy019Qz 🔥",
+    "labels": {
+      "company": "Zenith Analytics",
+      "role": "Cloud Engineer",
+      "employment_type": "full-time",
+      "batch": [
+        2025
+      ],
+      "stipend_min": 100000,
+      "stipend_max": 100000,
+      "location": "Bangalore",
+      "is_remote": false,
+      "skills": [
+        "AWS",
+        "Terraform",
+        "Linux"
+      ],
+      "apply_link": "https://forms.gle/Xy019Qz",
+      "apply_email": null
+    }
+  },
+  {
+    "id": 21,
+    "group_id": 21,
+    "text": "*QuantaWorks*\nRole: Android Developer Intern\nLocation: Mumbai\nCompensation: Stipend: as per interview\nEligibility: 2025/2026 batches\nTech: Kotlin, Android, Firebase\nHow to apply: https://bit.ly/job020",
+    "labels": {
+      "company": "QuantaWorks",
+      "role": "Android Developer Intern",
+      "employment_type": "internship",
+      "batch": [
+        2025,
+        2026
+      ],
+      "stipend_min": null,
+      "stipend_max": null,
+      "location": "Mumbai",
+      "is_remote": false,
+      "skills": [
+        "Kotlin",
+        "Android",
+        "Firebase"
+      ],
+      "apply_link": "https://bit.ly/job020",
+      "apply_email": null
+    }
+  },
+  {
+    "id": 22,
+    "group_id": 22,
+    "text": "Forwarded as received\n\nBhai referral chahiye to ping karo. Zenith Analytics hiring QA Automation Intern (Gurgaon (onsite)), 25k-40k/month. 2025 & 2026 passouts. Must know Selenium, Python and Pytest. https://bit.ly/job021",
+    "labels": {
+      "company": "Zenith Analytics",
+      "role": "QA Automation Intern",
+      "employment_type": "internship",
+      "batch": [
+        2025,
+        2026
+      ],
+      "stipend_min": 25000,
+      "stipend_max": 40000,
+      "location": "Gurgaon",
+      "is_remote": false,
+      "skills": [
+        "Selenium",
+        "Python",
+        "Pytest"
+      ],
+      "apply_link": "https://bit.ly/job021",
+      "apply_email": null
+    }
+  },
+  {
+    "id": 23,
+    "group_id": 23,
+    "text": "📢 Opportunity @ Bluepeak Labs\n\nWe're hiring a Frontend Developer Intern!\n• Where: Chennai\n• Pay: Stipend discussed in interview\n• Who: 2025 passouts only\n• Stack: React, JavaScript, CSS\n\nInterested? https://forms.gle/Xy022Qz\n#hiring #freshers #jobs",
+    "labels": {
+      "company": "Bluepeak Labs",
+      "role": "Frontend Developer Intern",
+      "employment_type": "internship",
+      "batch": [
+        2025
+      ],
+      "stipend_min": null,
+      "stipend_max": null,
+      "location": "Chennai",
+      "is_remote": false,
+      "skills": [
+        "React",
+        "JavaScript",
+        "CSS"
+      ],
+      "apply_link": "https://forms.gle/Xy022Qz",
+      "apply_email": null
+    }
+  },
+  {
+    "id": 24,
+    "group_id": 24,
+    "text": "Android Developer Intern - NovaStack Technologies (Pune (onsite)) | 15k stipend | 2026 graduates | Kotlin/Android/Firebase | https://novastacktechnologies.in/jobs/23",
+    "labels": {
+      "company": "NovaStack Technologies",
+      "role": "Android Developer Intern",
+      "employment_type": "internship",
+      "batch": [
+        2026
+      ],
+      "stipend_min": 15000,
+      "stipend_max": 15000,
+      "location": "Pune",
+      "is_remote": false,
+      "skills": [
+        "Kotlin",
+        "Android",
+        "Firebase"
+      ],
+      "apply_link": "https://novastacktechnologies.in/jobs/23",
+      "apply_email": null
+    }
+  },
+  {
+    "id": 25,
+    "group_id": 25,
+    "text": "🚀 HIRING ALERT 🚀\nBluepeak Labs is looking for Data Analyst Intern\n📍 Noida\n💰 Stipend: as per interview\n🎓 2026 batch\n🛠 Skills: SQL, Excel, Power BI\n👉 Apply: https://bit.ly/job024\n\nShare with friends!",
+    "labels": {
+      "company": "Bluepeak Labs",
+      "role": "Data Analyst Intern",
+      "employment_type": "internship",
+      "batch": [
+        2026
+      ],
+      "stipend_min": null,
+      "stipend_max": null,
+      "location": "Noida",
+      "is_remote": false,
+      "skills": [
+        "SQL",
+        "Excel",
+        "Power BI"
+      ],
+      "apply_link": "https://bit.ly/job024",
+      "apply_email": null
+    }
+  },
+  {
+    "id": 26,
+    "group_id": 26,
+    "text": "Hey guys! Zenith Analytics me opening hai - Software Engineer. Location: Hyderabad (onsite). CTC: 3 LPA. Batch 2025 eligible hain. Aana chahiye: Java | Spring Boot | SQL. Apply karo jaldi: https://zenithanalytics.in/jobs/25 🔥",
+    "labels": {
+      "company": "Zenith Analytics",
+      "role": "Software Engineer",
+      "employment_type": "full-time",
+      "batch": [
+        2025
+      ],
+      "stipend_min": 25000,
+      "stipend_max": 25000,
+      "location": "Hyderabad",
+      "is_remote": false,
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "SQL"
+      ],
+      "apply_link": "https://zenithanalytics.in/jobs/25",
+      "apply_email": null
+    }
+  },
+  {
+    "id": 27,
+    "group_id": 27,
+    "text": "*DataBridge AI*\nRole: Data Analyst Intern\nLocation: Pune\nCompensation: Stipend: 10000 pm\nEligibility: 2025 passouts only\nTech: SQL, Excel, Power BI\nHow to apply: https://databridgeai.in/jobs/26",
+    "labels": {
+      "company": "DataBridge AI",
+      "role": "Data Analyst Intern",
+      "employment_type": "internship",
+      "batch": [
+        2025
+      ],
+      "stipend_min": 10000,
+      "stipend_max": 10000,
+      "location": "Pune",
+      "is_remote": false,
+      "skills": [
+        "SQL",
+        "Excel",
+        "Power BI"
+      ],
+      "apply_link": "https://databridgeai.in/jobs/26",
+      "apply_email": null
+    }
+  },
+  {
+    "id": 28,
+    "group_id": 28,
+    "text": "Forwarded as received\n\nBhai referral chahiye to ping karo. Vantage Retail Tech hiring Frontend Developer Intern (Hyderabad (onsite)), Stipend: 25k to 40k. 2026 & 2027 pass-outs welcome. Must know React, JavaScript and CSS. https://forms.gle/Xy027Qz",
+    "labels": {
+      "company": "Vantage Retail Tech",
+      "role": "Frontend Developer Intern",
+      "employment_type": "internship",
+      "batch": [
+        2026,
+        2027
+      ],
+      "stipend_min": 25000,
+      "stipend_max": 40000,
+      "location": "Hyderabad",
+      "is_remote": false,
+      "skills": [
+        "React",
+        "JavaScript",
+        "CSS"
+      ],
+      "apply_link": "https://forms.gle/Xy027Qz",
+      "apply_email": null
+    }
+  },
+  {
+    "id": 29,
+    "group_id": 29,
+    "text": "📢 Opportunity @ PixelForge Studios\n\nWe're hiring a Cloud Engineer!\n• Where: Bangalore\n• Pay: Salary 3 lpa\n• Who: 2024/2025 batches\n• Stack: AWS, Terraform, Linux\n\nInterested? mail resume to careers@pixelforgestudios.com\n#hiring #freshers #jobs",
+    "labels": {
+      "company": "PixelForge Studios",
+      "role": "Cloud Engineer",
+      "employment_type": "full-time",
+      "batch": [
+        2024,
+        2025
+      ],
+      "stipend_min": 25000,
+      "stipend_max": 25000,
+      "location": "Bangalore",
+      "is_remote": false,
+      "skills": [
+        "AWS",
+        "Terraform",
+        "Linux"
+      ],
+      "apply_link": null,
+      "apply_email": "careers@pixelforgestudios.com"
+    }
+  },
+  {
+    "id": 30,
+    "group_id": 30,
+    "text": "Data Analyst Intern - GreenLeaf Robotics (Hyderabad (onsite)) | 20k-30k/month | Batch 2026 | SQL/Excel/Power BI | https://forms.gle/Xy029Qz",
+    "labels": {
+      "company": "GreenLeaf Robotics",
+      "role": "Data Analyst Intern",
+      "employment_type": "internship",
+      "batch": [
+        2026
+      ],
+      "stipend_min": 20000,
+      "stipend_max": 30000,
+      "location": "Hyderabad",
+      "is_remote": false,
+      "skills": [
+        "SQL",
+        "Excel",
+        "Power BI"
+      ],
+      "apply_link": "https://forms.gle/Xy029Qz",
+      "apply_email": null
+    }
+  },
+  {
+    "id": 31,
+    "group_id": 31,
+    "text": "🚀 HIRING ALERT 🚀\nKiteflow is looking for Generative AI Intern\n📍 Mumbai\n💰 Stipend: 10000 pm\n🎓 Batch: 2024/2025\n🛠 Skills: LangChain, Python, LLMs\n👉 Apply: https://kiteflow.in/jobs/30\n\nShare with friends!",
+    "labels": {
+      "company": "Kiteflow",
+      "role": "Generative AI Intern",
+      "employment_type": "internship",
+      "batch": [
+        2024,
+        2025
+      ],
+      "stipend_min": 10000,
+      "stipend_max": 10000,
+      "location": "Mumbai",
+      "is_remote": false,
+      "skills": [
+        "LangChain",
+        "Python",
+        "LLMs"
+      ],
+      "apply_link": "https://kiteflow.in/jobs/30",
+      "apply_email": null
+    }
+  },
+  {
+    "id": 32,
+    "group_id": 32,
+    "text": "Hey guys! Mintra Fintech me opening hai - Backend Developer. Location: Noida (onsite). CTC: 6 LPA. 2026 graduates eligible hain. Aana chahiye: Python | FastAPI | PostgreSQL. Apply karo jaldi: https://careers.mintrafintech.com/apply/1031 🔥",
+    "labels": {
+      "company": "Mintra Fintech",
+      "role": "Backend Developer",
+      "employment_type": "full-time",
+      "batch": [
+        2026
+      ],
+      "stipend_min": 50000,
+      "stipend_max": 50000,
+      "location": "Noida",
+      "is_remote": false,
+      "skills": [
+        "Python",
+        "FastAPI",
+        "PostgreSQL"
+      ],
+      "apply_link": "https://careers.mintrafintech.com/apply/1031",
+      "apply_email": null
+    }
+  },
+  {
+    "id": 33,
+    "group_id": 33,
+    "text": "*Orbit Commerce*\nRole: Full Stack Developer\nLocation: Pune\nCompensation: Salary 12 lpa\nEligibility: 2025 batch\nTech: Node.js, React, MongoDB\nHow to apply: https://forms.gle/Xy032Qz",
+    "labels": {
+      "company": "Orbit Commerce",
+      "role": "Full Stack Developer",
+      "employment_type": "full-time",
+      "batch": [
+        2025
+      ],
+      "stipend_min": 100000,
+      "stipend_max": 100000,
+      "location": "Pune",
+      "is_remote": false,
+      "skills": [
+        "Node.js",
+        "React",
+        "MongoDB"
+      ],
+      "apply_link": "https://forms.gle/Xy032Qz",
+      "apply_email": null
+    }
+  },
+  {
+    "id": 34,
+    "group_id": 34,
+    "text": "Forwarded as received\n\nBhai referral chahiye to ping karo. NovaStack Technologies hiring Generative AI Intern (Bangalore (onsite)), 15k per month. 2026 & 2027 passouts. Must know LangChain, Python and LLMs. https://forms.gle/Xy033Qz",
+    "labels": {
+      "company": "NovaStack Technologies",
+      "role": "Generative AI Intern",
+      "employment_type": "internship",
+      "batch": [
+        2026,
+        2027
+      ],
+      "stipend_min": 15000,
+      "stipend_max": 15000,
+      "location": "Bangalore",
+      "is_remote": false,
+      "skills": [
+        "LangChain",
+        "Python",
+        "LLMs"
+      ],
+      "apply_link": "https://forms.gle/Xy033Qz",
+      "apply_email": null
+    }
+  },
+  {
+    "id": 35,
+    "group_id": 35,
+    "text": "📢 Opportunity @ DataBridge AI\n\nWe're hiring a Backend Developer!\n• Where: Hyderabad\n• Pay: Salary 3 lpa\n• Who: Batch: 2026/2027\n• Stack: Python, FastAPI, PostgreSQL\n\nInterested? https://bit.ly/job034\n#hiring #freshers #jobs",
+    "labels": {
+      "company": "DataBridge AI",
+      "role": "Backend Developer",
+      "employment_type": "full-time",
+      "batch": [
+        2026,
+        2027
+      ],
+      "stipend_min": 25000,
+      "stipend_max": 25000,
+      "location": "Hyderabad",
+      "is_remote": false,
+      "skills": [
+        "Python",
+        "FastAPI",
+        "PostgreSQL"
+      ],
+      "apply_link": "https://bit.ly/job034",
+      "apply_email": null
+    }
+  },
+  {
+    "id": 36,
+    "group_id": 36,
+    "text": "Generative AI Intern - Lumina Health (Hyderabad (onsite)) | 25k stipend | 2025 & 2026 pass-outs welcome | LangChain/Python/LLMs | https://forms.gle/Xy035Qz",
+    "labels": {
+      "company": "Lumina Health",
+      "role": "Generative AI Intern",
+      "employment_type": "internship",
+      "batch": [
+        2025,
+        2026
+      ],
+      "stipend_min": 25000,
+      "stipend_max": 25000,
+      "location": "Hyderabad",
+      "is_remote": false,
+      "skills": [
+        "LangChain",
+        "Python",
+        "LLMs"
+      ],
+      "apply_link": "https://forms.gle/Xy035Qz",
+      "apply_email": null
+    }
+  },
+  {
+    "id": 37,
+    "group_id": 37,
+    "text": "🚀 HIRING ALERT 🚀\nLumina Health is looking for Backend Developer\n📍 Bangalore\n💰 12 LPA\n🎓 2025 batch\n🛠 Skills: Python, FastAPI, PostgreSQL\n👉 Apply: https://careers.luminahealth.com/apply/1036\n\nShare with friends!",
+    "labels": {
+      "company": "Lumina Health",
+      "role": "Backend Developer",
+      "employment_type": "full-time",
+      "batch": [
+        2025
+      ],
+      "stipend_min": 100000,
+      "stipend_max": 100000,
+      "location": "Bangalore",
+      "is_remote": false,
+      "skills": [
+        "Python",
+        "FastAPI",
+        "PostgreSQL"
+      ],
+      "apply_link": "https://careers.luminahealth.com/apply/1036",
+      "apply_email": null
+    }
+  },
+  {
+    "id": 38,
+    "group_id": 38,
+    "text": "Hey guys! Bluepeak Labs me opening hai - Data Scientist. Location: Mumbai (onsite). 3 LPA. 2025 & 2026 passouts eligible hain. Aana chahiye: Python | Machine Learning | SQL. Apply karo jaldi: https://bluepeaklabs.in/jobs/37 🔥",
+    "labels": {
+      "company": "Bluepeak Labs",
+      "role": "Data Scientist",
+      "employment_type": "full-time",
+      "batch": [
+        2025,
+        2026
+      ],
+      "stipend_min": 25000,
+      "stipend_max": 25000,
+      "location": "Mumbai",
+      "is_remote": false,
+      "skills": [
+        "Python",
+        "Machine Learning",
+        "SQL"
+      ],
+      "apply_link": "https://bluepeaklabs.in/jobs/37",
+      "apply_email": null
+    }
+  },
+  {
+    "id": 39,
+    "group_id": 39,
+    "text": "*PixelForge Studios*\nRole: Cloud Engineer\nLocation: Delhi\nCompensation: 3 LPA\nEligibility: Batch: 2026/2027\nTech: AWS, Terraform, Linux\nHow to apply: https://pixelforgestudios.in/jobs/38",
+    "labels": {
+      "company": "PixelForge Studios",
+      "role": "Cloud Engineer",
+      "employment_type": "full-time",
+      "batch": [
+        2026,
+        2027
+      ],
+      "stipend_min": 25000,
+      "stipend_max": 25000,
+      "location": "Delhi",
+      "is_remote": false,
+      "skills": [
+        "AWS",
+        "Terraform",
+        "Linux"
+      ],
+      "apply_link": "https://pixelforgestudios.in/jobs/38",
+      "apply_email": null
+    }
+  },
+  {
+    "id": 40,
+    "group_id": 40,
+    "text": "Forwarded as received\n\nBhai referral chahiye to ping karo. Mintra Fintech hiring Frontend Developer Intern (Mumbai (onsite)), 15k stipend. 2025 & 2026 pass-outs welcome. Must know React, JavaScript and CSS. https://forms.gle/Xy039Qz",
+    "labels": {
+      "company": "Mintra Fintech",
+      "role": "Frontend Developer Intern",
+      "employment_type": "internship",
+      "batch": [
+        2025,
+        2026
+      ],
+      "stipend_min": 15000,
+      "stipend_max": 15000,
+      "location": "Mumbai",
+      "is_remote": false,
+      "skills": [
+        "React",
+        "JavaScript",
+        "CSS"
+      ],
+      "apply_link": "https://forms.gle/Xy039Qz",
+      "apply_email": null
+    }
+  },
+  {
+    "id": 41,
+    "group_id": 41,
+    "text": "📢 Opportunity @ PixelForge Studios\n\nWe're hiring a QA Automation Intern!\n• Where: Chennai\n• Pay: ₹30,000/month\n• Who: 2026 batch\n• Stack: Selenium, Python, Pytest\n\nInterested? https://pixelforgestudios.in/jobs/40\n#hiring #freshers #jobs",
+    "labels": {
+      "company": "PixelForge Studios",
+      "role": "QA Automation Intern",
+      "employment_type": "internship",
+      "batch": [
+        2026
+      ],
+      "stipend_min": 30000,
+      "stipend_max": 30000,
+      "location": "Chennai",
+      "is_remote": false,
+      "skills": [
+        "Selenium",
+        "Python",
+        "Pytest"
+      ],
+      "apply_link": "https://pixelforgestudios.in/jobs/40",
+      "apply_email": null
+    }
+  },
+  {
+    "id": 42,
+    "group_id": 42,
+    "text": "Data Analyst Intern - Mintra Fintech (Remote / WFH) | 30k per month | 2024 & 2025 passouts | SQL/Excel/Power BI | mail resume to careers@mintrafintech.com",
+    "labels": {
+      "company": "Mintra Fintech",
+      "role": "Data Analyst Intern",
+      "employment_type": "internship",
+      "batch": [
+        2024,
+        2025
+      ],
+      "stipend_min": 30000,
+      "stipend_max": 30000,
+      "location": null,
+      "is_remote": true,
+      "skills": [
+        "SQL",
+        "Excel",
+        "Power BI"
+      ],
+      "apply_link": null,
+      "apply_email": "careers@mintrafintech.com"
+    }
+  },
+  {
+    "id": 43,
+    "group_id": 43,
+    "text": "🚀 HIRING ALERT 🚀\nCloudNimbus is looking for Android Developer Intern\n📍 Delhi\n💰 25-40k pm\n🎓 2026 passouts only\n🛠 Skills: Kotlin, Android, Firebase\n👉 Apply: https://bit.ly/job042\n\nShare with friends!",
+    "labels": {
+      "company": "CloudNimbus",
+      "role": "Android Developer Intern",
+      "employment_type": "internship",
+      "batch": [
+        2026
+      ],
+      "stipend_min": 25000,
+      "stipend_max": 40000,
+      "location": "Delhi",
+      "is_remote": false,
+      "skills": [
+        "Kotlin",
+        "Android",
+        "Firebase"
+      ],
+      "apply_link": "https://bit.ly/job042",
+      "apply_email": null
+    }
+  },
+  {
+    "id": 44,
+    "group_id": 44,
+    "text": "Hey guys! GreenLeaf Robotics me opening hai - Cloud Engineer. Location: Remote / WFH. 3 LPA. 2026 graduates eligible hain. Aana chahiye: AWS | Terraform | Linux. Apply karo jaldi: https://forms.gle/Xy043Qz 🔥",
+    "labels": {
+      "company": "GreenLeaf Robotics",
+      "role": "Cloud Engineer",
+      "employment_type": "full-time",
+      "batch": [
+        2026
+      ],
+      "stipend_min": 25000,
+      "stipend_max": 25000,
+      "location": null,
+      "is_remote": true,
+      "skills": [
+        "AWS",
+        "Terraform",
+        "Linux"
+      ],
+      "apply_link": "https://forms.gle/Xy043Qz",
+      "apply_email": null
+    }
+  },
+  {
+    "id": 45,
+    "group_id": 1,
+    "text": "Forwarded as received\n\nBhai referral chahiye to ping karo. NovaStack Technologies hiring AI/ML Intern (Remote / WFH), 25k per month. 2025 & 2026 passouts. Must know Python, PyTorch and NLP. https://careers.novastacktechnologies.com/apply/1000",
+    "labels": {
+      "company": "NovaStack Technologies",
+      "role": "AI/ML Intern",
+      "employment_type": "internship",
+      "batch": [
+        2025,
+        2026
+      ],
+      "stipend_min": 25000,
+      "stipend_max": 25000,
+      "location": null,
+      "is_remote": true,
+      "skills": [
+        "Python",
+        "PyTorch",
+        "NLP"
+      ],
+      "apply_link": "https://careers.novastacktechnologies.com/apply/1000",
+      "apply_email": null
+    }
+  },
+  {
+    "id": 46,
+    "group_id": 8,
+    "text": "📢 Opportunity @ FinEdge Payments\n\nWe're hiring a Cloud Engineer!\n• Where: Noida\n• Pay: CTC: 6 LPA\n• Who: 2025/2026 batches\n• Stack: AWS, Terraform, Linux\n\nInterested? https://forms.gle/Xy007Qz\n#hiring #freshers #jobs",
+    "labels": {
+      "company": "FinEdge Payments",
+      "role": "Cloud Engineer",
+      "employment_type": "full-time",
+      "batch": [
+        2025,
+        2026
+      ],
+      "stipend_min": 50000,
+      "stipend_max": 50000,
+      "location": "Noida",
+      "is_remote": false,
+      "skills": [
+        "AWS",
+        "Terraform",
+        "Linux"
+      ],
+      "apply_link": "https://forms.gle/Xy007Qz",
+      "apply_email": null
+    }
+  },
+  {
+    "id": 47,
+    "group_id": 15,
+    "text": "QA Automation Intern - Mintra Fintech (Mumbai (onsite)) | Stipend: 20k to 30k | 2026 graduates | Selenium/Python/Pytest | https://bit.ly/job014",
+    "labels": {
+      "company": "Mintra Fintech",
+      "role": "QA Automation Intern",
+      "employment_type": "internship",
+      "batch": [
+        2026
+      ],
+      "stipend_min": 20000,
+      "stipend_max": 30000,
+      "location": "Mumbai",
+      "is_remote": false,
+      "skills": [
+        "Selenium",
+        "Python",
+        "Pytest"
+      ],
+      "apply_link": "https://bit.ly/job014",
+      "apply_email": null
+    }
+  },
+  {
+    "id": 48,
+    "group_id": 22,
+    "text": "🚀 HIRING ALERT 🚀\nZenith Analytics is looking for QA Automation Intern\n📍 Gurgaon\n💰 25-40k pm\n🎓 Batch: 2025/2026\n🛠 Skills: Selenium, Python, Pytest\n👉 Apply: https://bit.ly/job021\n\nShare with friends!",
+    "labels": {
+      "company": "Zenith Analytics",
+      "role": "QA Automation Intern",
+      "employment_type": "internship",
+      "batch": [
+        2025,
+        2026
+      ],
+      "stipend_min": 25000,
+      "stipend_max": 40000,
+      "location": "Gurgaon",
+      "is_remote": false,
+      "skills": [
+        "Selenium",
+        "Python",
+        "Pytest"
+      ],
+      "apply_link": "https://bit.ly/job021",
+      "apply_email": null
+    }
+  },
+  {
+    "id": 49,
+    "group_id": 29,
+    "text": "Hey guys! PixelForge Studios me opening hai - Cloud Engineer. Location: Bangalore (onsite). 3 LPA. 2024 & 2025 passouts eligible hain. Aana chahiye: AWS | Terraform | Linux. Apply karo jaldi: mail resume to careers@pixelforgestudios.com 🔥",
+    "labels": {
+      "company": "PixelForge Studios",
+      "role": "Cloud Engineer",
+      "employment_type": "full-time",
+      "batch": [
+        2024,
+        2025
+      ],
+      "stipend_min": 25000,
+      "stipend_max": 25000,
+      "location": "Bangalore",
+      "is_remote": false,
+      "skills": [
+        "AWS",
+        "Terraform",
+        "Linux"
+      ],
+      "apply_link": null,
+      "apply_email": "careers@pixelforgestudios.com"
+    }
+  },
+  {
+    "id": 50,
+    "group_id": 36,
+    "text": "*Lumina Health*\nRole: Generative AI Intern\nLocation: Hyderabad\nCompensation: ₹25,000/month\nEligibility: 2025/2026 batches\nTech: LangChain, Python, LLMs\nHow to apply: https://forms.gle/Xy035Qz",
+    "labels": {
+      "company": "Lumina Health",
+      "role": "Generative AI Intern",
+      "employment_type": "internship",
+      "batch": [
+        2025,
+        2026
+      ],
+      "stipend_min": 25000,
+      "stipend_max": 25000,
+      "location": "Hyderabad",
+      "is_remote": false,
+      "skills": [
+        "LangChain",
+        "Python",
+        "LLMs"
+      ],
+      "apply_link": "https://forms.gle/Xy035Qz",
+      "apply_email": null
+    }
+  }
+]

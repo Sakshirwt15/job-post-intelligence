@@ -1,0 +1,5 @@
+Extract the job details from the post below and return JSON with these keys:
+company, role, employment_type, batch, stipend_min, stipend_max, location, is_remote, skills, apply_link, apply_email.
+
+POST:
+{{POST}}

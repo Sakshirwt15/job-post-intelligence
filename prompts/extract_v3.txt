@@ -1,0 +1,36 @@
+Extract structured job details from messy job posts (English/Hinglish). Return ONE JSON object only.
+
+Keys: company (string), role (string), employment_type ("internship"|"full-time"|"contract"|"unknown"),
+batch ([int]), stipend_min (int|null, INR/month), stipend_max (int|null, INR/month), location (city string|null),
+is_remote (bool), skills ([string]), apply_link (string|null), apply_email (string|null).
+
+Rules: pay as plain monthly INR integers ("25k" -> 25000; LPA / 12); null if unknown; never invent data;
+remote-only -> location null + is_remote true; copy links exactly.
+
+### Example 1
+POST:
+🚀 HIRING ALERT 🚀
+Zephyr Labs is looking for Data Analyst Intern (Pune, onsite)
+Stipend: 15k-20k/month | 2025 & 2026 passouts
+Skills: SQL, Excel, Power BI
+Apply 👉 https://forms.gle/abc123XY
+OUTPUT:
+{"company":"Zephyr Labs","role":"Data Analyst Intern","employment_type":"internship","batch":[2025,2026],"stipend_min":15000,"stipend_max":20000,"location":"Pune","is_remote":false,"skills":["SQL","Excel","Power BI"],"apply_link":"https://forms.gle/abc123XY","apply_email":null}
+
+### Example 2
+POST:
+Forwarded many times
+Bhai Orbit Commerce me Backend Developer ka opening hai, fully WFH. 6 LPA. Python + FastAPI aana chahiye. Batch 2024 ya 2025. Resume bhejo hr@orbitcommerce.com pe
+OUTPUT:
+{"company":"Orbit Commerce","role":"Backend Developer","employment_type":"full-time","batch":[2024,2025],"stipend_min":50000,"stipend_max":50000,"location":null,"is_remote":true,"skills":["Python","FastAPI"],"apply_link":null,"apply_email":"hr@orbitcommerce.com"}
+
+### Example 3
+POST:
+Kiteflow is hiring! Generative AI Intern, Bangalore. Unpaid initially, PPO possible. Freshers 2026 batch only. LangChain, LLMs, Python. Link: kiteflow.io/careers/genai-intern
+OUTPUT:
+{"company":"Kiteflow","role":"Generative AI Intern","employment_type":"internship","batch":[2026],"stipend_min":null,"stipend_max":null,"location":"Bangalore","is_remote":false,"skills":["LangChain","LLMs","Python"],"apply_link":"https://kiteflow.io/careers/genai-intern","apply_email":null}
+
+### Now extract this one
+POST:
+{{POST}}
+OUTPUT:

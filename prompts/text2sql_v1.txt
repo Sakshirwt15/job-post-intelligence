@@ -1,0 +1,36 @@
+Write ONE SQLite SELECT query that answers the question. The question may be English or Hinglish.
+
+Database: a single read-only view named `jobs` (one row per unique job; reposts are already merged).
+
+jobs(
+  id INTEGER,
+  company TEXT,
+  role TEXT,
+  employment_type TEXT,   -- 'internship' | 'full-time' | 'contract' | 'unknown'
+  location TEXT,          -- city, e.g. 'Pune'; NULL for fully remote jobs
+  is_remote INTEGER,      -- 1 or 0
+  stipend_min INTEGER,    -- INR per month, NULL if unknown
+  stipend_max INTEGER,    -- INR per month, NULL if unknown
+  batch_years TEXT,       -- comma separated years, e.g. '2025,2026'
+  skills TEXT,            -- comma separated, e.g. 'Python, SQL, Docker'
+  apply_link TEXT,
+  apply_email TEXT,
+  cluster_id INTEGER,
+  times_posted INTEGER,   -- how many times this job was posted (reposts)
+  created_at TEXT
+)
+
+Rules:
+- Use ONLY the `jobs` view. Only SELECT. No semicolons, no comments.
+- Text matching: use LIKE '%value%' for skills, batch_years and role; use = for location, company, employment_type.
+- Return only the columns the question asks for.
+- Output the SQL only, no explanation.
+
+Examples:
+Q: How many internships are in Pune?
+SQL: SELECT COUNT(*) FROM jobs WHERE employment_type = 'internship' AND location = 'Pune'
+Q: Companies hiring for Python skills
+SQL: SELECT DISTINCT company FROM jobs WHERE skills LIKE '%Python%'
+
+Q: {{QUESTION}}
+SQL:

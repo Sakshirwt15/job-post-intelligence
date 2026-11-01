@@ -1,0 +1,12 @@
+The user is searching a database of job posts. The query may be English, Hinglish (Hindi in Roman script) or mixed.
+Convert it into JSON with keys:
+{
+  "english_query": string,          // clean English search query describing the wanted job
+  "location": string | null,        // one city in English (e.g. "Pune"), null if none
+  "min_stipend": integer | null,    // lower bound in INR per month ("25k se upar" -> 25000)
+  "employment_type": "internship" | "full-time" | "contract" | null,
+  "skills": [string]
+}
+Only fill a field if the user clearly asked for it. Output JSON only.
+
+Query: {{QUERY}}

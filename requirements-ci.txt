@@ -1,0 +1,7 @@
+# Light deps for CI (tests use hash-embedder + in-memory vector store + fake LLM)
+pydantic>=2.6
+requests>=2.31
+python-dotenv>=1.0
+numpy>=1.26
+pypdf>=4.0
+pytest>=8.0
